@@ -1,7 +1,7 @@
 # React Template - Attorney & Law
 
 Bem-vindo ao nosso repositório! Este template foi criado para apresentar um escritório de advocacia e seus serviços jurídicos. 
-[Acesse o site](https://jleiite.github.io/attorneylaw/).
+[Acesse o site](https://jleiite.github.io/attorneyLaw/).
 
 Para utilizar este template, você precisará de:
 
