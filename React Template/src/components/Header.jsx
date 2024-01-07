@@ -6,7 +6,7 @@ export function Header() {
         <>
             <nav className="navbar sticky-top navbar-expand-lg">
                 <div className="container-fluid ">
-                    <a className="navbar-brand" href="#"> <img src='./src/assets/logo.png' alt="Logo" />Attorney & Law</a>
+                    <a href="#"> <img src='./src/assets/logo.png' alt="Logo" /></a>
                     <button className="navbar-toggler border border-secondary-subtle" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                         <List size={24} className='text-light'/>
                     </button>
