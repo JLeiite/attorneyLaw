@@ -1,0 +1,20 @@
+@import 'variables.scss';
+
+.navbar{
+    background-color: $black;
+
+    .navbar-brand{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18pt;
+        color: $gray-200;
+    }
+
+    img{
+        height: 3rem;
+    }
+
+    a{
+        color: $gray-200;
+    }
+
+}
